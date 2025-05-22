@@ -1,1 +1,1 @@
-# Generative-Deep-Learn-2nd-Editioning
+# Generative-Deep-Learn-2nd-Edition
